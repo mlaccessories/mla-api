@@ -10,13 +10,12 @@ Orders are uniquely identified by an `order_id` and each order must have a uniqu
 
 ## Endpoints
 
-* Get an order
-* Create or update an order
-* Place an order
+* [`GET /apis/customer/orders/:order_id`](#get-an-order)
+* [`POST /apis/customer/orders`](#create-or-update-an-order)
+* [`PUT /apis/customer/orders/:order_id/place](#place-an-order)
+
 
 ### Get an Order
-
-`GET /apis/customer/orders/:order_id`
 
 ####  Request
 

@@ -3,9 +3,9 @@ This repository hosts documentation of public APIs provided by [ML Accessories](
 
 ## Table of Contents
 
-* Overview
+* [Overview](docs/overview.md)
   * Authentication
   * Error Codes & Responses
 * Customer API
-  * Orders
+  * [Orders](docs/customer-api/orders.md)
     * Endpoints
