@@ -87,8 +87,6 @@ Status: 200 OK
 
 ### Create or Update an Order
 
-`POST /apis/customer/orders`
-
 #### Request
 
 ```
@@ -204,8 +202,6 @@ Status: 200 OK or 201 Created
 ```
 
 ### Place an Order
-
-`PUT /apis/customer/orders/:order_id/place`
 
 #### Request
 
