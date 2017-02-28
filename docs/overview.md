@@ -4,7 +4,9 @@
 
 Basic Authentication is used to authenticate users.
 
-Username can be either the username or email address registered for the ML Accessories website account.
+Username is the email address registered for the ML Accessories website account.
+
+Password is the password associated with the website account.
 
 ## Error Codes & Responses
 
