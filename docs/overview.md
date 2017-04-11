@@ -2,7 +2,7 @@
 
 ## Authentication
 
-Basic Authentication is used to authenticate users.
+Basic Authentication is used to authenticate users and is required for every request.
 
 Username is the email address registered for the ML Accessories website account.
 
